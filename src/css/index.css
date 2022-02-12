@@ -1,0 +1,13 @@
+html {
+  color-scheme: dark;
+}
+body {
+  background-color: #232136;
+  color:#deddf4;
+  font-family: "Inter var",system-ui,-apple-system,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  margin: 0px;
+}
+
